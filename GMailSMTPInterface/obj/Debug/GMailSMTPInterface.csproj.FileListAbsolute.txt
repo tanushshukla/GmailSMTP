@@ -1,0 +1,11 @@
+C:\Users\tashukla\Documents\GitHub\GmailSMTP\GMailSMTPInterface\bin\Debug\GMailSMTPInterface.exe.config
+C:\Users\tashukla\Documents\GitHub\GmailSMTP\GMailSMTPInterface\obj\Debug\GMailSMTPInterface.csprojResolveAssemblyReference.cache
+C:\Users\tashukla\Documents\GitHub\GmailSMTP\GMailSMTPInterface\obj\Debug\GMailSMTPInterface.Form1.resources
+C:\Users\tashukla\Documents\GitHub\GmailSMTP\GMailSMTPInterface\obj\Debug\GMailSMTPInterface.Properties.Resources.resources
+C:\Users\tashukla\Documents\GitHub\GmailSMTP\GMailSMTPInterface\obj\Debug\GMailSMTPInterface.csproj.GenerateResource.Cache
+C:\Users\tashukla\Documents\GitHub\GmailSMTP\GMailSMTPInterface\bin\Debug\GMailSMTPInterface.exe
+C:\Users\tashukla\Documents\GitHub\GmailSMTP\GMailSMTPInterface\bin\Debug\GMailSMTPInterface.pdb
+C:\Users\tashukla\Documents\GitHub\GmailSMTP\GMailSMTPInterface\bin\Debug\GmailSMTPClass.dll
+C:\Users\tashukla\Documents\GitHub\GmailSMTP\GMailSMTPInterface\bin\Debug\GmailSMTPClass.pdb
+C:\Users\tashukla\Documents\GitHub\GmailSMTP\GMailSMTPInterface\obj\Debug\GMailSMTPInterface.exe
+C:\Users\tashukla\Documents\GitHub\GmailSMTP\GMailSMTPInterface\obj\Debug\GMailSMTPInterface.pdb

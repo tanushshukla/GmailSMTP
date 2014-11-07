@@ -1,0 +1,5 @@
+C:\Users\tashukla\Documents\GitHub\GmailSMTP\GmailSMTPClass\obj\Debug\GmailSMTPClass.csprojResolveAssemblyReference.cache
+C:\Users\tashukla\Documents\GitHub\GmailSMTP\GmailSMTPClass\bin\Debug\GmailSMTPClass.dll
+C:\Users\tashukla\Documents\GitHub\GmailSMTP\GmailSMTPClass\bin\Debug\GmailSMTPClass.pdb
+C:\Users\tashukla\Documents\GitHub\GmailSMTP\GmailSMTPClass\obj\Debug\GmailSMTPClass.dll
+C:\Users\tashukla\Documents\GitHub\GmailSMTP\GmailSMTPClass\obj\Debug\GmailSMTPClass.pdb
