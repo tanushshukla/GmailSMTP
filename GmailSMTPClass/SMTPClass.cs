@@ -8,10 +8,10 @@ using System.Threading.Tasks;
 
 namespace GmailSMTPClass
 {
-    public class GmailSMTPClass
+    public class SMTPClass
     {
 
-        private static void SendMail(string FromEmail, string ToEmail, string AuthenticationEmail, string AuthenticationEmailPassword, string Subject,string Body)
+        public void Push(string FromEmail, string ToEmail, string AuthenticationEmail, string AuthenticationEmailPassword, string Subject,string Body)
         {
             try
             {
